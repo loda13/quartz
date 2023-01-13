@@ -1,6 +1,6 @@
 # Quartz
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+forked from jackyzha0/quartz
 
 1. Extremely fast natural-language search
 2. Customizable and hackable design based on Hugo
