@@ -1,6 +1,6 @@
-# Quartz
+# Quartz.krohk.com
 
-forked from jackyzha0/quartz
+forked from [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
 
 
 访问我的主页：[Croak: krohk.com](https://krohk.com)
